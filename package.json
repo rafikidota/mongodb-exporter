@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-exporter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "rafikidota",
+    "url": "https://github.com/rafikidota/"
+  },
+  "repository": "https://github.com/rafikidota/mongodb-exporter.git",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.13.0"
+  },
+  "type": "module"
+}
